@@ -1,1 +1,3 @@
 We are creating data solutions for a new data project.
+
+Tools: Python and SQL
